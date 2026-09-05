@@ -1,0 +1,67 @@
+[
+  {
+    "name": "severity-critical",
+    "color": "d73a49",
+    "description": "Critical severity - system down or major functionality broken"
+  },
+  {
+    "name": "severity-high",
+    "color": "f97b6c",
+    "description": "High severity - significant functionality impaired"
+  },
+  {
+    "name": "severity-medium",
+    "color": "fbca04",
+    "description": "Medium severity - noticeable issue but workaround available"
+  },
+  {
+    "name": "severity-low",
+    "color": "0e8a16",
+    "description": "Low severity - minor issue or enhancement"
+  },
+  {
+    "name": "priority-high",
+    "color": "d93f0b",
+    "description": "High priority - address immediately"
+  },
+  {
+    "name": "priority-medium",
+    "color": "fb8500",
+    "description": "Medium priority - address soon"
+  },
+  {
+    "name": "priority-low",
+    "color": "7cb342",
+    "description": "Low priority - address when time permits"
+  },
+  {
+    "name": "status-new",
+    "color": "0075ca",
+    "description": "Workflow status - newly reported defect"
+  },
+  {
+    "name": "status-in-progress",
+    "color": "4285f4",
+    "description": "Workflow status - currently being investigated or fixed"
+  },
+  {
+    "name": "status-for-retest",
+    "color": "6f42c1",
+    "description": "Workflow status - ready for retesting"
+  },
+  {
+    "name": "duplicate",
+    "color": "cccccc",
+    "description": "Triage result - duplicate of another issue"
+  },
+  {
+    "name": "deferred",
+    "color": "bfd4f2",
+    "description": "Triage result - deferred for future release"
+  },
+  {
+    "name": "not-a-defect",
+    "color": "e8e8e8",
+    "description": "Triage result - not considered a defect"
+  }
+]
